@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+#tabla{
+	
+	margin-left: 20em;
+	border: 2px solid black;
+	align: center;
+	text-align: center;
+	cellpadding: 3;
+	
+}
